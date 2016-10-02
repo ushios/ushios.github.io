@@ -13,3 +13,9 @@ elixir
 ---------
 
 - [awsome elixir](https://github.com/h4cc/awesome-elixir)
+
+
+その他
+-------
+
+- [公式dockerイメージ](https://hub.docker.com/_/elixir/)
