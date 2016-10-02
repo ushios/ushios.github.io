@@ -13,6 +13,7 @@ elixir
 ---------
 
 - [awsome elixir](https://github.com/h4cc/awesome-elixir)
+ - [http](https://github.com/slogsdon/http)
 
 
 その他
