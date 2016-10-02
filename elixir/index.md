@@ -5,6 +5,7 @@ elixir
 -----
 
 - [公式](http://elixir-lang.org/)
+- [公式（日本語）](http://elixir-ja.sena-net.works/)
 - [Elixir School 日本語訳](https://elixirschool.com/jp/)
 
 
