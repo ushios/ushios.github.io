@@ -25,3 +25,4 @@ elixir
  - [ElixirでHTTPのやりとりをする](http://niku.name/2015/07/03/Elixir%E3%81%A7HTTP%E3%81%AE%E3%82%84%E3%82%8A%E3%81%A8%E3%82%8A%E3%82%92%E3%81%99%E3%82%8B.html)
  - [http server using Plug](https://github.com/elixir-lang/plug#hello-world)
  - [Elixir: A simple server with Plug](http://blog.simonstrom.xyz/elixir-a-simple-server-with-plug/)
+- [Elixirで試しに何か書いてみる(その1)](http://qiita.com/HirofumiTamori/items/602d9b326cb4816c2fe6)
