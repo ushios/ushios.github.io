@@ -20,7 +20,7 @@ Golang
 ### IDE
 
  - [ATOMでGolangの環境設定](http://qiita.com/m0a/items/b7b27254a43d50b7aba2)
- 
+
 ### 情報まとめ
  - [golang on MacOSXチュートリアル](./tutorial.md)
  - [Using gorm](./gorm.md)
@@ -62,3 +62,9 @@ CLIツール作るときに便利
 
 - [Go言語のDependency/Vendoringの問題と今後．gbあるいはGo1.5](http://deeeet.com/writing/2015/06/26/golang-dependency-vendoring/)
 	- [[Go] ビルドツール gb を使ってみた](http://blog.yohei.org/go-build-tool-gb/)
+
+idiomatic Go Readability
+==========================
+- [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [haya14busa/goverage](https://github.com/haya14busa/goverage)
+- [EffectiveGo](https://golang.org/doc/effective_go.html)
