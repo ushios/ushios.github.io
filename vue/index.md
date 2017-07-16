@@ -8,3 +8,7 @@
 ```javascript
 <p contenteditable="true" v-on:update="onUpdate"><p>
 ```
+
+# 参考リンク
+
+* [Vue.js のコンポーネントと親子間データの送受信](http://chibinowa.net/note/vuejs/vue-4.html)
