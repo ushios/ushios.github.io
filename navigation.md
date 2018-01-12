@@ -15,6 +15,7 @@ UshioShugo
   * [MySQL](mysql/index.md)
   * [Swift](swift/index.md)
   * [Vue](vue/index.md)
+  * [ML](ml/index.md)
   ----
   * # 調べ物
   * [BlockChain](blockchain/index.md)
