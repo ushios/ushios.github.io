@@ -72,3 +72,11 @@ idiomatic Go Readability
 - [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [haya14busa/goverage](https://github.com/haya14busa/goverage)
 - [EffectiveGo](https://golang.org/doc/effective_go.html)
+
+
+# メモリに関して
+
+* https://github.com/golang/go/issues/14521
+* http://ascii.jp/elem/000/001/496/1496211/
+* https://deferpanic.com/blog/understanding-golang-memory-usage/
+* https://blog.kazu69.net/2017/08/20/memory-management-go/
