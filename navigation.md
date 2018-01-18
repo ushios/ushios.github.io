@@ -3,6 +3,7 @@ UshioShugo
 
 [Contacts](index.md)
 [Skills](skills.md)
+[映画](movies/index.md)
 [Develops]()
 
   * # About
