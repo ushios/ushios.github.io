@@ -17,6 +17,7 @@ UshioShugo
   * [Swift](swift/index.md)
   * [Vue](vue/index.md)
   * [ML](ml/index.md)
+  * [gRPC](grpc/index.md)
   ----
   * # 調べ物
   * [BlockChain](blockchain/index.md)
