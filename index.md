@@ -7,3 +7,8 @@ Contacts
 - tumblr [ushio](http://ushio.tumblr.com)
 - medium [ushio](https://medium.com/@ushio)
 
+Memo
+----
+
+* http://www.kurento.org/
+* https://www.wowza.com/
