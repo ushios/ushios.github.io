@@ -55,6 +55,9 @@
 - TypeScript
   - 用途
     - websocket を使用するチャットサーバーの開発
+- Swift
+  - 用途
+    - ライブラリの提供
 - Java
   - WAF
     - SAStruts
