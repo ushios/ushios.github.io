@@ -81,10 +81,10 @@
   - terraform
   - AWS CloudFormation
   - Chef
+  - Ansible
   - Packer
 - コンテナ
   - docker
-  - docker-compose
   - docker-swarm
   - Fargate
 
@@ -95,7 +95,7 @@
   - PostgreSQL
   - MongoDB
   - DynamoDB
-- Cache
+- KVS
   - Memcached
   - Redis
 - Web Server
